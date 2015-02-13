@@ -2,6 +2,7 @@
   "name": "browserify-ember-template",
   "version": "1.0.0",
   "description": "Ember Handlebars compiler for Browserify",
+  "repository": "git@github.com:jsedlacek/browserify-ember-template.git",
   "main": "index.js",
   "scripts": {
   },
