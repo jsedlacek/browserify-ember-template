@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ember": "git://github.com/components/ember#1.10.0"
+    "components-ember": "git://github.com/components/ember#1.10.0"
   }
 }

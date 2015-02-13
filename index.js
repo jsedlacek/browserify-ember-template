@@ -1,7 +1,7 @@
 var through = require('through2');
 var util = require("util");
 var path = require("path");
-var compiler = require('ember/ember-template-compiler');
+var compiler = require('components-ember/ember-template-compiler');
 
 module.exports = function (b, opts) {
   if (['.hbs'].indexOf(path.extname(b)) === -1) {
