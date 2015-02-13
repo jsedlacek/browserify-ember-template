@@ -1,0 +1,13 @@
+{
+  "name": "browserify-ember-template",
+  "version": "1.0.0",
+  "description": "Ember Handlebars compiler for Browserify",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ember": "git://github.com/components/ember#1.10.0"
+  }
+}
